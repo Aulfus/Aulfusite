@@ -1,5 +1,9 @@
-# Aulfusite
+theme: jekyll-theme-minima
+---
+# new `_layouts/default.html` for backwards-compatibility when multiple
+# layouts have been customized.
 
-# This is just a note for later self
+layout: base
+---
 
-# It's the 21st of Septemember and I'm stressing out about my 3 tests
+{{ content }}
