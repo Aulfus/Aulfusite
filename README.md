@@ -26,4 +26,4 @@ The **United States Tennis Association (USTA)** is the national governing body f
 
 Whether you're a beginner or a seasoned tennis player, there are many ways to get involved with the USTA and the sport of tennis. Visit the [USTA website](https://www.usta.com/) to learn more about membership, events, and programs.
 
-![USTA Logo]([https://www.usta.com/assets/1/15/usta-default-fallback.jpg](https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/USTA_logo.svg/1200px-USTA_logo.svg.png)https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/USTA_logo.svg/1200px-USTA_logo.svg.png)
+![USTA Logo](https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/USTA_logo.svg/1200px-USTA_logo.svg.png)
