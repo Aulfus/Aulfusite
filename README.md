@@ -1,4 +1,3 @@
-# United States Tennis Association (USTA)
 ## By: Parrwat Litigorn
 <img src="https://github.com/Aulfus/Aulfusite/assets/51394325/3cc13dc9-59c4-4fbf-af0d-5827eddcd05f" width="600" height="400">
 
